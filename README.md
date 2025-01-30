@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub page!  
 
-<!--
-**nolanCrrd/nolanCrrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Nolan Correard, a BUT student at IUT2 Grenoble.  
+I’m passionate about front-end development because I enjoy crafting user experiences that feel intuitive and enjoyable.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Languages  
+I love learning new languages that open up new possibilities:  
+- **C/C++**
+- **Java / Python**  
+- **React / React Native** 
+- **PHP**  
+- **SQL**  
+
+### 🛠️ Tools  
+I adapt easily to different tools depending on what's available:  
+- **VS Code / JetBrains**  
+- **macOS / Linux**  
+
+## ⏳ What I’m currently doing  
+I'm currently exploring new opportunities for my future as a developer. 🚀  
