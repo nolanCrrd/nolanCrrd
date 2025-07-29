@@ -14,7 +14,6 @@ I love discovering new technologies that push my limits:
 * C / C++
 * Java / Python
 * React / React Native
-* PHP / SQL
 
 # 🛠️ Tools & Environments
 
