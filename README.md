@@ -19,7 +19,7 @@ I love discovering new technologies that push my limits:
 # 🛠️ Tools & Environments
 
 I adapt quickly to different setups and tools:
-* VS Code / JetBrains
+* VS Code / JetBrains / Nvim
 * macOS / Linux
 
 # 📌 What’s Next?
