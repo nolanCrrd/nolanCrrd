@@ -1,5 +1,5 @@
 ![banner]
-(https://i.pinimg.com/originals/ff/34/3a/ff343aa8819c2573ad3409baf4af5e3e.gif)
+(./_.gif)
 
 # 👋 Welcome to my GitHub!
 
