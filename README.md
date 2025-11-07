@@ -14,11 +14,15 @@ struct nolanCrrd
 	char **code = {"C", "Java", "Python", "Typescript", "HTML", "CSS"};
 	char **tools = {"React", "Sass"};
 	char **ide = {"VsCode", "Nvim", "JetBrain"};
+	char **soft = {"Problem Solving", "Critical Thinking", "Teamwork", "Patience", "Curiosity"};
  
 	// Experiences
 	int school = 42;
 	char *project = "Dive in my github";
  	char *futur = "Impatient to start my 42 student journey";
+
+	// Personal
+	char	**hobbies = {"ride bike", "organise my life/project"}
 }
 ```
 
