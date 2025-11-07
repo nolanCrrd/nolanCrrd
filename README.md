@@ -3,26 +3,33 @@
 ---
 
 ```C
-struct nolanCrrd
+struct dev	nolanCrrd = 
 {
 	// Person
-	char *first_name = "Nolan";
-	char *last_name = "Correard";
-	int age = 20;
+	char	*first_name = "Nolan";
+	char 	*last_name = "Correard";
+	int		age = 20;
 
 	// Coding Skills
-	char **code = {"C", "Java", "Python", "Typescript", "HTML", "CSS"};
-	char **tools = {"React", "Sass"};
-	char **ide = {"VsCode", "Nvim", "JetBrain"};
-	char **soft = {"Problem Solving", "Critical Thinking", "Teamwork", "Patience", "Curiosity"};
+	char	**tools = {"React", "Sass"};
+	char	**ide = {"VsCode", "Nvim", "JetBrain"};
+	char	**soft = {"Problem Solving", "Critical Thinking", "Teamwork", "Patience", "Curiosity"};
+	char	**languages =
+		{
+			"ASM:		▉▉▉			30%",
+			"Java:		▉▉▉▉ 		40%",
+			"Python:	▉▉▉▉▉ 		50%",
+			"C:			▉▉▉▉▉▌ 		55%",
+			"CSS:		▉▉▉▉▉▉ 		60%",
+			"React:		▉▉▉▉▉▉▌		65%",
+		};
  
 	// Experiences
-	int school = 42;
-	char *project = "Dive in my github";
- 	char *futur = "Impatient to start my 42 student journey";
+	int		school = 42;
+	char	*project = "Dive in my github";
+ 	char	*futur = "Impatient to start my 42 student journey";
 
 	// Personal
 	char	**hobbies = {"ride bike", "organise my life/project"}
 }
 ```
-
