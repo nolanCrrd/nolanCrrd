@@ -11,18 +11,7 @@ struct dev	nolanCrrd =
 	int		age = 20;
 
 	// Coding Skills
-	char	**tools = {"React", "Sass"};
-	char	**ide = {"VsCode", "Nvim", "JetBrain"};
 	char	**soft = {"Problem Solving", "Critical Thinking", "Teamwork", "Patience", "Curiosity"};
-	char	**languages =
-		{
-			"ASM:		▉▉▉			30%",
-			"Java:		▉▉▉▉ 		40%",
-			"Python:	▉▉▉▉▉ 		50%",
-			"C:			▉▉▉▉▉▌ 		55%",
-			"CSS:		▉▉▉▉▉▉ 		60%",
-			"React:		▉▉▉▉▉▉▌		65%",
-		};
  
 	// Experiences
 	int		school = 42;
@@ -33,5 +22,8 @@ struct dev	nolanCrrd =
 	char	**hobbies = {"ride bike", "organise my life/project"}
 }
 ```
+
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
