@@ -33,3 +33,5 @@ struct dev	nolanCrrd =
 	char	**hobbies = {"ride bike", "organise my life/project"}
 }
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
