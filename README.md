@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2032%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -67,5 +67,5 @@ Linux                    11 hrs 57 mins      ███████████�
 ```
 
 
- Last Updated on 21/02/2026 19:00:59 UTC
+ Last Updated on 22/02/2026 19:01:12 UTC
 <!--END_SECTION:waka-->
