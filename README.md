@@ -26,15 +26,13 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2032%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                122 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-🌆 Daytime                255 commits         ██████████████░░░░░░░░░░░   55.08 % 
-🌃 Evening                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+🌞 Morning                124 commits         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+🌆 Daytime                263 commits         ██████████████░░░░░░░░░░░   55.60 % 
+🌃 Evening                83 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
@@ -44,28 +42,27 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      5 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.07 % 
-Bash                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Docker                   1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+C++                      8 hrs 8 mins        ██████████████████████░░░   88.64 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Makefile                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+C/C                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       ██████████████████░░░░░░░   70.43 % 
-CLion                    3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+CLion                    6 hrs               ████████████████░░░░░░░░░   65.37 % 
+VS Code                  3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
 
 🐱‍💻 Projects: 
-Inception                5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.83 % 
-cpp0-cpp4                2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-cmieuzet_corr            45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-cpp6corr                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-webserv_horrible_de_ehode40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+cpp0-cpp4                4 hrs 46 mins       █████████████░░░░░░░░░░░░   52.07 % 
+cppModules               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Inception                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+cpp9                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+togauthi                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Linux                    11 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/02/2026 19:01:12 UTC
+ Last Updated on 27/02/2026 19:09:51 UTC
 <!--END_SECTION:waka-->
