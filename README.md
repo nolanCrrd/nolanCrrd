@@ -26,6 +26,8 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2016%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -42,27 +44,27 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      8 hrs 8 mins        ██████████████████████░░░   88.64 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Makefile                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-C/C                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+C++                      8 hrs 36 mins       ████████████████████░░░░░   78.00 % 
+Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Docker                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-CLion                    6 hrs               ████████████████░░░░░░░░░   65.37 % 
-VS Code                  3 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
+CLion                    6 hrs 12 mins       ██████████████░░░░░░░░░░░   56.22 % 
+VS Code                  4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.78 % 
 
 🐱‍💻 Projects: 
-cpp0-cpp4                4 hrs 46 mins       █████████████░░░░░░░░░░░░   52.07 % 
-cppModules               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Inception                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-cpp9                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-togauthi                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+cpp0-cpp4                4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
+Inception                2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+cppModules               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+cpp9                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+ndelh                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 💻 Operating System: 
-Linux                    9 hrs 10 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/02/2026 19:09:51 UTC
+ Last Updated on 28/02/2026 18:55:57 UTC
 <!--END_SECTION:waka-->
