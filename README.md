@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%204%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,29 +44,29 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      8 hrs 36 mins       █████████████████░░░░░░░░   69.58 % 
-Rust                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Docker                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+C++                      4 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.44 % 
+Bash                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Rust                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Docker                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 🔥 Editors: 
-CLion                    6 hrs 12 mins       █████████████░░░░░░░░░░░░   50.14 % 
-VS Code                  4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
-RustRover                1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  6 hrs 51 mins       █████████████████░░░░░░░░   67.17 % 
+CLion                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+RustRover                1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Neovim                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🐱‍💻 Projects: 
-cpp0-cpp4                4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.40 % 
-Inception                2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-cppModules               1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-gessing_game             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-cpp9                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Inception                4 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
+cppModules               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+gessing_game             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+cpp9                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+aranger                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 
 💻 Operating System: 
-Linux                    12 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/03/2026 19:11:55 UTC
+ Last Updated on 04/03/2026 19:12:20 UTC
 <!--END_SECTION:waka-->
