@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2046%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,29 +44,29 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.01 % 
-Bash                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Rust                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Docker                   56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Rust                     2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+C++                      2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Lua                      2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Bash                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+hyprlang                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 45 mins       ████████████████░░░░░░░░░   63.44 % 
-RustRover                1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Neovim                   1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-CLion                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+VS Code                  5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.85 % 
+Neovim                   4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+RustRover                2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+CLion                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🐱‍💻 Projects: 
-Inception                3 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.76 % 
-gessing_game             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-aranger                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-lvanS                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Inception                3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+Unknown Project          3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+rustlings                1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+gessing_game             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+aranger                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-Linux                    9 hrs 3 mins        █████████████████████████   100.00 % 
+Linux                    13 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 19:43:20 UTC
+ Last Updated on 06/03/2026 19:09:55 UTC
 <!--END_SECTION:waka-->
