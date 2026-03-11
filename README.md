@@ -26,14 +26,14 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18 commits          ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌆 Daytime                23 commits          █████████░░░░░░░░░░░░░░░░   35.38 % 
-🌃 Evening                24 commits          █████████░░░░░░░░░░░░░░░░   36.92 % 
+🌞 Morning                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+🌆 Daytime                46 commits          ███████████░░░░░░░░░░░░░░   45.54 % 
+🌃 Evening                37 commits          █████████░░░░░░░░░░░░░░░░   36.63 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -44,28 +44,28 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Rust                     3 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.23 % 
-Lua                      2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-hyprlang                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript               7 hrs               ██████████░░░░░░░░░░░░░░░   41.36 % 
+Rust                     3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Lua                      2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+hyprlang                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 57 mins       █████████████████████░░░░   83.29 % 
-RustRover                1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-CLion                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Neovim                   15 hrs 32 mins      ███████████████████████░░   91.76 % 
+RustRover                1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+CLion                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.01 % 
-rustlings                3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
-hyprFocus                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-trans                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Cub3d                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+trans                    8 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.00 % 
+Unknown Project          4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+rustlings                3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+hyprFocus                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Cub3d                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Linux                    8 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/03/2026 19:13:32 UTC
+ Last Updated on 11/03/2026 19:24:51 UTC
 <!--END_SECTION:waka-->
