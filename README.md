@@ -31,9 +31,9 @@ struct dev	nolanCrrd =
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                184 commits         ██████████░░░░░░░░░░░░░░░   40.89 % 
-🌆 Daytime                175 commits         ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌃 Evening                91 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌞 Morning                153 commits         ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌆 Daytime                196 commits         █████████████░░░░░░░░░░░░   50.78 % 
+🌃 Evening                37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -44,25 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               22 hrs 34 mins      ██████████████████████░░░   89.96 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-C++                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TypeScript               27 hrs 8 mins       ███████████████████████░░   91.62 % 
+CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+C++                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 5 mins       █████████████████████████   100.00 % 
+Neovim                   29 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-trans                    23 hrs 56 mins      ████████████████████████░   95.45 % 
-Unknown Project          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-portfolio_2026           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-minishell                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+trans                    23 hrs 54 mins      ████████████████████░░░░░   80.71 % 
+transcendence            4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Unknown Project          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+portfolio_2026           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+minishell                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    25 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    29 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/03/2026 19:34:37 UTC
+ Last Updated on 17/03/2026 19:34:11 UTC
 <!--END_SECTION:waka-->
