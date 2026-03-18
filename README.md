@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%202%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,26 +44,25 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               27 hrs 8 mins       ███████████████████████░░   91.62 % 
-CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-C++                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Docker                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+TypeScript               27 hrs 56 mins      ████████████████████████░   97.58 % 
+C++                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Rust                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-Neovim                   29 hrs 37 mins      █████████████████████████   100.00 % 
+Neovim                   28 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-trans                    23 hrs 54 mins      ████████████████████░░░░░   80.71 % 
-transcendence            4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Unknown Project          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-portfolio_2026           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-minishell                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+trans                    15 hrs 52 mins      ██████████████░░░░░░░░░░░   55.44 % 
+transcendence            12 hrs 9 mins       ███████████░░░░░░░░░░░░░░   42.47 % 
+Unknown Project          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+portfolio_2026           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Linux                    29 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 19:34:11 UTC
+ Last Updated on 18/03/2026 19:29:46 UTC
 <!--END_SECTION:waka-->
