@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,26 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               24 hrs 17 mins      ██████████████████████░░░   86.24 % 
-Lua                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-C                        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+TypeScript               20 hrs 15 mins      █████████████████████░░░░   83.96 % 
+Lua                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+C                        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Neovim                   28 hrs 10 mins      █████████████████████████   100.00 % 
+Neovim                   24 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-transcendence            12 hrs 11 mins      ███████████░░░░░░░░░░░░░░   43.31 % 
-Unknown Project          8 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
-trans                    4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Second-Brain-App         2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Cub3d                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+transcendence            12 hrs 11 mins      █████████████░░░░░░░░░░░░   50.57 % 
+Unknown Project          8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
+Second-Brain-App         2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Cub3d                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+trans                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Linux                    28 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2026 19:12:26 UTC
+ Last Updated on 21/03/2026 19:00:47 UTC
 <!--END_SECTION:waka-->
