@@ -31,9 +31,9 @@ struct dev	nolanCrrd =
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                178 commits         ██████████░░░░░░░░░░░░░░░   38.78 % 
-🌆 Daytime                234 commits         █████████████░░░░░░░░░░░░   50.98 % 
-🌃 Evening                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+🌞 Morning                67 commits          █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌆 Daytime                96 commits          █████████████░░░░░░░░░░░░   53.33 % 
+🌃 Evening                17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -44,26 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               20 hrs 15 mins      █████████████████████░░░░   83.96 % 
-Lua                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-C                        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               20 hrs 15 mins      █████████████████████░░░░   84.24 % 
+Lua                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+C                        59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Neovim                   24 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   24 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-transcendence            12 hrs 11 mins      █████████████░░░░░░░░░░░░   50.57 % 
-Unknown Project          8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
-Second-Brain-App         2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Cub3d                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+transcendence            12 hrs 11 mins      █████████████░░░░░░░░░░░░   50.74 % 
+Unknown Project          8 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
+Second-Brain-App         2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Cub3d                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 trans                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Linux                    24 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    24 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/03/2026 19:00:47 UTC
+ Last Updated on 22/03/2026 19:02:08 UTC
 <!--END_SECTION:waka-->
