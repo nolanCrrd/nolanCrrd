@@ -26,14 +26,14 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                166 commits         █████████░░░░░░░░░░░░░░░░   35.93 % 
-🌆 Daytime                255 commits         ██████████████░░░░░░░░░░░   55.19 % 
-🌃 Evening                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+🌞 Morning                121 commits         █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌆 Daytime                178 commits         █████████████░░░░░░░░░░░░   53.94 % 
+🌃 Evening                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -44,26 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               8 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.70 % 
-C                        5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Lua                      1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-C++                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TypeScript               7 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+C                        5 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Rust                     3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+C++                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 50 mins      █████████████████████████   100.00 % 
+Neovim                   18 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.10 % 
-42_examshell             5 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Second-Brain-App         3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-transcendence            1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Cub3d                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Second-Brain-App         8 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
+42_examshell             5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
+transcendence            2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Unknown Project          1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Cub3d                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Linux                    18 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/03/2026 19:25:42 UTC
+ Last Updated on 26/03/2026 19:37:38 UTC
 <!--END_SECTION:waka-->
