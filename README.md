@@ -26,14 +26,14 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2048%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                144 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
-🌆 Daytime                228 commits         ██████████████░░░░░░░░░░░   55.34 % 
-🌃 Evening                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+🌞 Morning                58 commits          ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+🌆 Daytime                153 commits         ███████████████░░░░░░░░░░   61.94 % 
+🌃 Evening                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -44,25 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               15 hrs 16 mins      █████████████░░░░░░░░░░░░   52.31 % 
-Rust                     6 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-C                        4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-C++                      1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+C                        13 hrs 49 mins      ████████████████████░░░░░   80.84 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Makefile                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Neovim                   29 hrs 10 mins      █████████████████████████   100.00 % 
+Neovim                   17 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Second-Brain-App         20 hrs 10 mins      █████████████████░░░░░░░░   69.13 % 
-42_examshell             5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-transcendence            2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Unknown Project          26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+ezflags                  12 hrs 1 min        ██████████████████░░░░░░░   70.35 % 
+Unknown Project          2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+todo-list                1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+42-exam-rank-6           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+dotfiles                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    29 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2026 19:07:03 UTC
+ Last Updated on 08/04/2026 06:41:17 UTC
 <!--END_SECTION:waka-->
