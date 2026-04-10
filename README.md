@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,26 +44,24 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        17 hrs 4 mins       █████████████████████░░░░   83.90 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-TypeScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Makefile                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+C                        16 hrs 45 mins      ██████████████████████░░░   89.19 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 21 mins      █████████████████████████   100.00 % 
+Neovim                   18 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ezflags                  14 hrs 5 mins       █████████████████░░░░░░░░   69.23 % 
-Unknown Project          3 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-todo-list                1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-42-exam-rank-6           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-dotfiles                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+ezflags                  15 hrs 26 mins      █████████████████████░░░░   82.18 % 
+Unknown Project          1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+ft_ls                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 💻 Operating System: 
-Linux                    20 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 19:45:32 UTC
+ Last Updated on 10/04/2026 19:26:48 UTC
 <!--END_SECTION:waka-->
