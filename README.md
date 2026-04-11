@@ -26,14 +26,14 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2043%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                65 commits          ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌆 Daytime                155 commits         ███████████████░░░░░░░░░░   59.85 % 
-🌃 Evening                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+🌞 Morning                286 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌆 Daytime                440 commits         █████████████░░░░░░░░░░░░   53.53 % 
+🌃 Evening                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -44,24 +44,24 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        16 hrs 45 mins      ██████████████████████░░░   89.19 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+C                        15 hrs 28 mins      ███████████████████████░░   92.13 % 
+Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Makefile                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 47 mins      █████████████████████████   100.00 % 
+Neovim                   16 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ezflags                  15 hrs 26 mins      █████████████████████░░░░   82.18 % 
-Unknown Project          1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-ft_ls                    1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+ezflags                  9 hrs 38 mins       ██████████████░░░░░░░░░░░   57.41 % 
+ft_ls                    5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.05 % 
+Unknown Project          1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 💻 Operating System: 
-Linux                    18 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/04/2026 19:26:48 UTC
+ Last Updated on 11/04/2026 19:11:39 UTC
 <!--END_SECTION:waka-->
