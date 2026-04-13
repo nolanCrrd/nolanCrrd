@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2055%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,24 +44,24 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        16 hrs 47 mins      ███████████████████████░░   92.13 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Makefile                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+C                        17 hrs 17 mins      ███████████████████████░░   90.41 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Makefile                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 14 mins      █████████████████████████   100.00 % 
+Neovim                   19 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ezflags                  9 hrs 52 mins       ██████████████░░░░░░░░░░░   54.13 % 
-ft_ls                    6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
-Unknown Project          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+ezflags                  10 hrs 46 mins      ██████████████░░░░░░░░░░░   56.28 % 
+ft_ls                    6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
+Unknown Project          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 💻 Operating System: 
-Linux                    18 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2026 19:22:05 UTC
+ Last Updated on 13/04/2026 19:47:50 UTC
 <!--END_SECTION:waka-->
