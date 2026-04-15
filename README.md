@@ -44,24 +44,24 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        17 hrs 17 mins      ███████████████████████░░   90.41 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Makefile                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C                        11 hrs 39 mins      ██████████████████████░░░   89.00 % 
+Makefile                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+fish                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 7 mins       █████████████████████████   100.00 % 
+Neovim                   13 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ezflags                  10 hrs 46 mins      ██████████████░░░░░░░░░░░   56.28 % 
-ft_ls                    6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
-Unknown Project          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+ft_ls                    6 hrs 35 mins       █████████████░░░░░░░░░░░░   50.33 % 
+ezflags                  5 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.29 % 
+Unknown Project          1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 💻 Operating System: 
-Linux                    19 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 19:49:16 UTC
+ Last Updated on 15/04/2026 19:49:28 UTC
 <!--END_SECTION:waka-->
