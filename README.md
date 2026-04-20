@@ -44,21 +44,18 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        29 mins             ██████████████░░░░░░░░░░░   55.28 % 
-Makefile                 21 mins             ██████████░░░░░░░░░░░░░░░   40.85 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ezflags                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/04/2026 19:23:07 UTC
+ Last Updated on 20/04/2026 19:40:00 UTC
 <!--END_SECTION:waka-->
