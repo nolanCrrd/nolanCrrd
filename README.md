@@ -44,18 +44,21 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      19 mins             ███████████████░░░░░░░░░░   59.98 % 
+HTML                     11 mins             █████████░░░░░░░░░░░░░░░░   36.79 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          19 mins             ███████████████░░░░░░░░░░   59.98 % 
+todo-list-angular        12 mins             ██████████░░░░░░░░░░░░░░░   40.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    31 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 19:46:55 UTC
+ Last Updated on 23/04/2026 19:50:25 UTC
 <!--END_SECTION:waka-->
