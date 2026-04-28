@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2027%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,21 +44,22 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Lua                      19 mins             ███████████████░░░░░░░░░░   59.39 % 
-HTML                     12 mins             █████████░░░░░░░░░░░░░░░░   37.15 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Lua                      19 mins             ██████████████░░░░░░░░░░░   56.26 % 
+HTML                     12 mins             █████████░░░░░░░░░░░░░░░░   35.19 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔥 Editors: 
-Neovim                   32 mins             █████████████████████████   100.00 % 
+Neovim                   34 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          19 mins             ███████████████░░░░░░░░░░   59.39 % 
-todo-list-angular        13 mins             ██████████░░░░░░░░░░░░░░░   40.61 % 
+Unknown Project          19 mins             ██████████████░░░░░░░░░░░   56.26 % 
+todo-list-angular        13 mins             ██████████░░░░░░░░░░░░░░░   38.47 % 
+dopunch-v3               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 💻 Operating System: 
-Linux                    32 mins             █████████████████████████   100.00 % 
+Linux                    34 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2026 19:54:35 UTC
+ Last Updated on 28/04/2026 20:02:34 UTC
 <!--END_SECTION:waka-->
