@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2050%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,26 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               11 hrs 7 mins       █████████████████████░░░░   83.23 % 
-HTML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+TypeScript               15 hrs 10 mins      ████████████████████░░░░░   81.89 % 
+HTML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-Unknown Editor           6 hrs 46 mins       █████████████░░░░░░░░░░░░   50.72 % 
-WebStorm                 6 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.01 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+WebStorm                 11 hrs 42 mins      ████████████████░░░░░░░░░   63.23 % 
+Unknown Editor           6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               13 hrs 21 mins      █████████████████████████   99.96 % 
-todo-list-angular        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+dopunch-v3               18 hrs 31 mins      █████████████████████████   99.97 % 
+todo-list-angular        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      12 hrs 52 mins      ████████████████████████░   96.37 % 
-Linux                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Mac                      18 hrs 2 mins       ████████████████████████░   97.38 % 
+Linux                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 
 
- Last Updated on 30/04/2026 19:56:21 UTC
+ Last Updated on 01/05/2026 19:48:08 UTC
 <!--END_SECTION:waka-->
