@@ -44,26 +44,25 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               15 hrs 10 mins      ████████████████████░░░░░   81.89 % 
-HTML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+TypeScript               15 hrs 9 mins       ████████████████████░░░░░   81.91 % 
+HTML                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-WebStorm                 11 hrs 42 mins      ████████████████░░░░░░░░░   63.23 % 
-Unknown Editor           6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+WebStorm                 11 hrs 42 mins      ████████████████░░░░░░░░░   63.25 % 
+Unknown Editor           6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.59 % 
+Neovim                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               18 hrs 31 mins      █████████████████████████   99.97 % 
-todo-list-angular        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+dopunch-v3               18 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 2 mins       ████████████████████████░   97.38 % 
-Linux                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Mac                      18 hrs 2 mins       ████████████████████████░   97.41 % 
+Linux                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 
- Last Updated on 03/05/2026 19:33:49 UTC
+ Last Updated on 04/05/2026 20:02:34 UTC
 <!--END_SECTION:waka-->
