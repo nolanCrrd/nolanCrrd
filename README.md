@@ -44,22 +44,22 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               9 hrs 44 mins       ███████████████░░░░░░░░░░   58.65 % 
-HTML                     2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-SCSS                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+TypeScript               10 hrs 52 mins      ███████████████░░░░░░░░░░   59.36 % 
+HTML                     3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+SCSS                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-WebStorm                 16 hrs 36 mins      █████████████████████████   100.00 % 
+WebStorm                 18 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               16 hrs 36 mins      █████████████████████████   100.00 % 
+dopunch-v3               18 hrs 18 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 20:00:48 UTC
+ Last Updated on 08/05/2026 19:54:42 UTC
 <!--END_SECTION:waka-->
