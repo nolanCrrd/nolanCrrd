@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-447%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,22 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               10 hrs 52 mins      ███████████████░░░░░░░░░░   59.36 % 
-HTML                     3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-SCSS                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+TypeScript               10 hrs 59 mins      ██████████████░░░░░░░░░░░   55.46 % 
+HTML                     3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+SCSS                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 18 mins      █████████████████████████   100.00 % 
+WebStorm                 18 hrs 26 mins      ███████████████████████░░   92.98 % 
+PyCharm                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               18 hrs 18 mins      █████████████████████████   100.00 % 
+dopunch-v3               18 hrs 26 mins      ███████████████████████░░   92.98 % 
+ft_linear_regression     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      18 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 18 mins      ███████████████████████░░   92.34 % 
+Linux                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 ```
 
 
- Last Updated on 08/05/2026 19:54:42 UTC
+ Last Updated on 09/05/2026 19:40:31 UTC
 <!--END_SECTION:waka-->
