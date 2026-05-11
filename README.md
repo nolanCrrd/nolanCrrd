@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,29 +44,29 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               10 hrs 59 mins      █████████████░░░░░░░░░░░░   52.10 % 
-HTML                     3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-SCSS                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TypeScript               10 hrs 59 mins      █████████████░░░░░░░░░░░░   51.95 % 
+HTML                     3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+SCSS                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 26 mins      ██████████████████████░░░   87.35 % 
-PyCharm                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-CLion                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+WebStorm                 18 hrs 26 mins      ██████████████████████░░░   87.10 % 
+PyCharm                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+CLion                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               18 hrs 26 mins      ██████████████████████░░░   87.35 % 
-ft_linear_regression     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-KFS                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+dopunch-v3               18 hrs 26 mins      ██████████████████████░░░   87.10 % 
+ft_linear_regression     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+KFS                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Mac                      18 hrs 18 mins      ██████████████████████░░░   86.75 % 
-Linux                    2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Mac                      18 hrs 18 mins      ██████████████████████░░░   86.50 % 
+Linux                    2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 ```
 
 
- Last Updated on 10/05/2026 19:40:35 UTC
+ Last Updated on 11/05/2026 20:16:41 UTC
 <!--END_SECTION:waka-->
