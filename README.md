@@ -26,47 +26,8 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2015%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                288 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌆 Daytime                440 commits         █████████████░░░░░░░░░░░░   53.20 % 
-🌃 Evening                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2038%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-TypeScript               9 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
-HTML                     4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-SCSS                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-
-🔥 Editors: 
-WebStorm                 17 hrs 39 mins      ██████████████████████░░░   86.60 % 
-PyCharm                  1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-CLion                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-
-🐱‍💻 Projects: 
-dopunch-v3               17 hrs 39 mins      ██████████████████████░░░   86.60 % 
-ft_linear_regression     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-KFS                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-
-💻 Operating System: 
-Mac                      17 hrs 31 mins      █████████████████████░░░░   85.98 % 
-Linux                    2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-```
-
-
- Last Updated on 13/05/2026 20:17:30 UTC
+ Last Updated on 14/05/2026 20:14:30 UTC
 <!--END_SECTION:waka-->
