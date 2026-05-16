@@ -26,6 +26,45 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2029%20mins-blue?style=flat)
 
- Last Updated on 15/05/2026 20:01:13 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                288 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
+🌆 Daytime                440 commits         █████████████░░░░░░░░░░░░   53.20 % 
+🌃 Evening                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               11 hrs 56 mins      ████████████░░░░░░░░░░░░░   49.99 % 
+HTML                     5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+SCSS                     4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+
+🔥 Editors: 
+WebStorm                 22 hrs 32 mins      ████████████████████████░   94.39 % 
+CLion                    1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Neovim                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+
+🐱‍💻 Projects: 
+dopunch-v3               22 hrs 32 mins      ████████████████████████░   94.39 % 
+KFS                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+
+💻 Operating System: 
+Mac                      22 hrs 32 mins      ████████████████████████░   94.39 % 
+Linux                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+```
+
+
+ Last Updated on 16/05/2026 19:39:12 UTC
 <!--END_SECTION:waka-->
