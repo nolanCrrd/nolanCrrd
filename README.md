@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2057%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,22 +44,22 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               11 hrs 57 mins      █████████████░░░░░░░░░░░░   53.01 % 
-HTML                     5 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-SCSS                     4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               13 hrs 59 mins      ████████████████░░░░░░░░░   63.55 % 
+HTML                     3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+SCSS                     3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-WebStorm                 22 hrs 33 mins      █████████████████████████   100.00 % 
+WebStorm                 22 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               22 hrs 33 mins      █████████████████████████   100.00 % 
+dopunch-v3               22 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/05/2026 20:13:47 UTC
+ Last Updated on 20/05/2026 20:34:23 UTC
 <!--END_SECTION:waka-->
