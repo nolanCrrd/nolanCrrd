@@ -26,6 +26,8 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2055%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -59,5 +61,5 @@ Mac                      23 hrs 29 mins      ███████████�
 ```
 
 
- Last Updated on 23/05/2026 19:44:45 UTC
+ Last Updated on 24/05/2026 19:46:46 UTC
 <!--END_SECTION:waka-->
