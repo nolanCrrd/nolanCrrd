@@ -26,40 +26,6 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%201%20min-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                288 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌆 Daytime                440 commits         █████████████░░░░░░░░░░░░   53.20 % 
-🌃 Evening                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-TypeScript               20 hrs 26 mins      ██████████████████████░░░   86.76 % 
-HTML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-SCSS                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-
-🔥 Editors: 
-WebStorm                 23 hrs 33 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-dopunch-v3               23 hrs 33 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      23 hrs 33 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 27/05/2026 20:33:31 UTC
+ Last Updated on 28/05/2026 20:43:16 UTC
 <!--END_SECTION:waka-->
