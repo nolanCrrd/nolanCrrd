@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2034%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,27 +44,29 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               18 hrs 20 mins      ██████████████░░░░░░░░░░░   56.58 % 
-Makefile                 4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-HTML                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-SCSS                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-C                        57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               15 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.10 % 
+Makefile                 4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+HTML                     3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+SCSS                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+C                        57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
-WebStorm                 25 hrs 50 mins      ████████████████████░░░░░   79.70 % 
-CLion                    6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+WebStorm                 25 hrs 12 mins      ████████████████████░░░░░   78.22 % 
+CLion                    6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Claude Code              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               23 hrs 19 mins      ██████████████████░░░░░░░   71.95 % 
-KFS                      6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-astro-discover           2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-boilerplate-strapi       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-binutils-gdb             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+dopunch-v3               20 hrs 50 mins      ████████████████░░░░░░░░░   64.67 % 
+KFS                      6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+astro-discover           2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+strapi-boilerplate       2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      32 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/06/2026 20:32:11 UTC
+ Last Updated on 05/06/2026 20:26:01 UTC
 <!--END_SECTION:waka-->
