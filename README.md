@@ -44,28 +44,28 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        7 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.29 % 
-TypeScript               7 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-Astro                    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-HTML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+TypeScript               5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
+C                        4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Astro                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+HTML                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+CSS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 
 🔥 Editors: 
-WebStorm                 12 hrs 32 mins      █████████████░░░░░░░░░░░░   51.41 % 
-VS Code                  8 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-Claude Code              3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+WebStorm                 11 hrs 1 min        ███████████████░░░░░░░░░░   59.47 % 
+VS Code                  4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Claude Code              2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               10 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.69 % 
-KFS                      8 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.95 % 
-frontend                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-portfolio-2026           1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-test                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+dopunch-v3               8 hrs               ███████████░░░░░░░░░░░░░░   43.24 % 
+KFS                      4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+frontend                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+portfolio-2026           1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+test                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 💻 Operating System: 
-Mac                      24 hrs 24 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/06/2026 21:25:51 UTC
+ Last Updated on 17/06/2026 20:35:10 UTC
 <!--END_SECTION:waka-->
