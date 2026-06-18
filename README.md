@@ -44,28 +44,28 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
-C                        4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Astro                    3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-HTML                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-CSS                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+TypeScript               4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
+Astro                    3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+C                        2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+HTML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-WebStorm                 11 hrs 1 min        ███████████████░░░░░░░░░░   59.47 % 
-VS Code                  4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-Claude Code              2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+WebStorm                 9 hrs 7 mins        █████████████████░░░░░░░░   69.76 % 
+VS Code                  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Claude Code              1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               8 hrs               ███████████░░░░░░░░░░░░░░   43.24 % 
-KFS                      4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-frontend                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-portfolio-2026           1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-test                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+dopunch-v3               6 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.06 % 
+frontend                 2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+KFS                      2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+portfolio-2026           1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+astro-boilerplate        20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Mac                      18 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 20:35:10 UTC
+ Last Updated on 18/06/2026 21:02:44 UTC
 <!--END_SECTION:waka-->
