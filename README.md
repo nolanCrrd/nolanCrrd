@@ -44,28 +44,25 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
-Astro                    3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-C                        2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-HTML                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.90 % 
+Astro                    2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.08 % 
+HTML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 7 mins        █████████████████░░░░░░░░   69.76 % 
-VS Code                  2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Claude Code              1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+WebStorm                 5 hrs 19 mins       ██████████████████████░░░   87.13 % 
+Claude Code              47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               6 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.06 % 
-frontend                 2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-KFS                      2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-portfolio-2026           1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-astro-boilerplate        20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+dopunch-v3               3 hrs 33 mins       ███████████████░░░░░░░░░░   58.31 % 
+portfolio-2026           1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+frontend                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 
 💻 Operating System: 
-Mac                      13 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 21:02:44 UTC
+ Last Updated on 19/06/2026 20:15:15 UTC
 <!--END_SECTION:waka-->
