@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%2046%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,24 +44,23 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     1 hr 50 mins        ██████████████░░░░░░░░░░░   54.01 % 
-Astro                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-SCSS                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+HTML                     1 hr 50 mins        ██████████████████░░░░░░░   70.37 % 
+SCSS                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 52 mins       █████████████████████░░░░   83.81 % 
-Claude Code              33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+WebStorm                 2 hrs 11 mins       █████████████████████░░░░   83.78 % 
+Claude Code              25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               2 hrs 37 mins       ███████████████████░░░░░░   76.75 % 
-portfolio-2026           47 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+dopunch-v3               2 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 20:04:51 UTC
+ Last Updated on 21/06/2026 20:12:34 UTC
 <!--END_SECTION:waka-->
