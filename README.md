@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-635%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,25 +44,25 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               18 hrs 11 mins      █████████████████░░░░░░░░   69.91 % 
-HTML                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-C                        1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-SCSS                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+TypeScript               21 hrs 9 mins       ███████████████████░░░░░░   74.34 % 
+C                        2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 14 mins      ██████████████████░░░░░░░   70.10 % 
-Claude Code              6 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-VS Code                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+WebStorm                 18 hrs 30 mins      ████████████████░░░░░░░░░   65.00 % 
+Claude Code              7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+VS Code                  2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               24 hrs 16 mins      ███████████████████████░░   93.31 % 
-KFS                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+dopunch-v3               25 hrs 8 mins       ██████████████████████░░░   88.31 % 
+KFS                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 
 💻 Operating System: 
-Mac                      26 hrs              █████████████████████████   100.00 % 
+Mac                      28 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2026 20:17:42 UTC
+ Last Updated on 27/06/2026 19:53:07 UTC
 <!--END_SECTION:waka-->
