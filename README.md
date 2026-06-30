@@ -44,25 +44,25 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               21 hrs 9 mins       ███████████████████░░░░░░   74.34 % 
-C                        2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-HTML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TypeScript               19 hrs 45 mins      █████████████████████░░░░   83.43 % 
+C                        1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Other                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 30 mins      ████████████████░░░░░░░░░   65.00 % 
-Claude Code              7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-VS Code                  2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+WebStorm                 15 hrs 40 mins      █████████████████░░░░░░░░   66.19 % 
+Claude Code              6 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+VS Code                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               25 hrs 8 mins       ██████████████████████░░░   88.31 % 
-KFS                      3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+dopunch-v3               21 hrs 30 mins      ███████████████████████░░   90.85 % 
+KFS                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 💻 Operating System: 
-Mac                      28 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 20:25:10 UTC
+ Last Updated on 30/06/2026 20:29:52 UTC
 <!--END_SECTION:waka-->
