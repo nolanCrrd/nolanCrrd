@@ -26,7 +26,7 @@ struct dev	nolanCrrd =
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2016%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -44,26 +44,26 @@ struct dev	nolanCrrd =
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               19 hrs 29 mins      █████████████████░░░░░░░░   68.57 % 
-Astro                    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-C                        1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-SCSS                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-CSS                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TypeScript               13 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   39.73 % 
+Astro                    12 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   37.83 % 
+CSS                      2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+C                        1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+SCSS                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-WebStorm                 19 hrs 55 mins      ██████████████████░░░░░░░   70.10 % 
-Claude Code              6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+WebStorm                 23 hrs 37 mins      ██████████████████░░░░░░░   71.86 % 
+Claude Code              7 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🐱‍💻 Projects: 
-dopunch-v3               21 hrs 54 mins      ███████████████████░░░░░░   77.06 % 
-portfolio-2026           4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-KFS                      2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+portfolio-2026           15 hrs 27 mins      ████████████░░░░░░░░░░░░░   47.02 % 
+dopunch-v3               15 hrs 14 mins      ████████████░░░░░░░░░░░░░   46.37 % 
+KFS                      2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 💻 Operating System: 
-Mac                      28 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/07/2026 20:25:36 UTC
+ Last Updated on 02/07/2026 20:02:37 UTC
 <!--END_SECTION:waka-->
